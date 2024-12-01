@@ -8,13 +8,17 @@
 </p>
 
 <p align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/Contributors-NemaNet%20Community-black?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/Contributors-NemaNet%20Community-black?style=for-the-badge" >
 </p>
 
 
 
 <p align="center"><strong>Empowering Worms, Accelerating Discoveries.</strong></p>
 <p align="center"><strong>赋能线虫，加速发现。</strong></p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ead0081c-f32e-4c98-8fe9-0e2174af19e2" alt="d3-3_processed_trajectories_with_trace" width="20%" />
+</p>
 
 
 ------------------------------------
