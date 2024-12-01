@@ -29,7 +29,8 @@
 </p>
 
 
-------------------------------------
+![image](https://github.com/user-attachments/assets/75d08bb3-a6fd-404e-be32-1a69e379b0c0)
+
 
  
 **NemaNet** is an open-source deep learning framework designed to automatically analyze the anatomical features and track the movement trajectories of _Caenorhabditis elegans_ (_C. elegans_). It is built to help the scientific community better understand the biology of this model organism by offering accurate, efficient, and scalable tools for phenotyping, tracking, and behavioral analysis.
