@@ -17,7 +17,7 @@
 <p align="center"><strong>赋能线虫，加速发现。</strong></p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ead0081c-f32e-4c98-8fe9-0e2174af19e2" alt="d3-3_processed_trajectories_with_trace" width="20%" />
+<!--  <img src="https://github.com/user-attachments/assets/ead0081c-f32e-4c98-8fe9-0e2174af19e2" alt="d3-3_processed_trajectories_with_trace" width="20%" /> -->
 </p>
 
 
@@ -39,12 +39,12 @@
 NemaNet is the result of the collaborative efforts of dedicated students, developers, and researchers who have generously contributed their time and expertise. We thank all our contributors for their hard work and support!
 
 ###  Thank you to the following individuals for their contributions to the NemaNet project:
-![Static Badge](https://img.shields.io/badge/Yiwen_Gong-red?style=plastic)
+![Static Badge](https://img.shields.io/badge/Yiwen_Gong-green?style=plastic)
 ![Static Badge](https://img.shields.io/badge/Yan_Pan-blue?style=plastic)
 ![Static Badge](https://img.shields.io/badge/Hexiang_Qiu-red?style=plastic)
-![Static Badge](https://img.shields.io/badge/Dan_Wu-red?style=plastic)
-
-
+![Static Badge](https://img.shields.io/badge/Dan_Wu-black?style=plastic)
+![Static Badge](https://img.shields.io/badge/Zhiru_Li-orange?style=plastic)
+![Static Badge](https://img.shields.io/badge/Yutong_Li-yellow?style=plastic)
 
 ## NemaNet History
 ### ⭐NemaNet v1 — WormCNN
