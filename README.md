@@ -39,10 +39,10 @@
 NemaNet is the result of the collaborative efforts of dedicated students, developers, and researchers who have generously contributed their time and expertise. We thank all our contributors for their hard work and support!
 
 ###  Thank you to the following individuals for their contributions to the NemaNet project:
-![Static Badge](https://img.shields.io/badge/Yiwen_Gong--Aging_Lab-red?style=plastic)
-![Static Badge](https://img.shields.io/badge/Yan_Pan--Aging_Lab-red?style=plastic)
-![Static Badge](https://img.shields.io/badge/Hexiang_Qiu--Aging_Lab-red?style=plastic)
-![Static Badge](https://img.shields.io/badge/Dan_Wu--Aging_Lab-red?style=plastic)
+![Static Badge](https://img.shields.io/badge/Yiwen_Gong-red?style=plastic)
+![Static Badge](https://img.shields.io/badge/Yan_Pan-blue?style=plastic)
+![Static Badge](https://img.shields.io/badge/Hexiang_Qiu-red?style=plastic)
+![Static Badge](https://img.shields.io/badge/Dan_Wu-red?style=plastic)
 
 
 
